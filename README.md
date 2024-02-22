@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-This is repository of my academic activities hosted using github pages on https://rahulkashyap411.github.io/
+This is repository of my academic activities hosted using github pages on https://rahulkashyap-phy.github.io/
 
 
 
 <!--
-**rahulkashyap411/rahulkashyap411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rahulkashyap-phy/rahulkashyap-phy.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
