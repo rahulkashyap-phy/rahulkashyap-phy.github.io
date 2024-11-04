@@ -10,11 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
 
     - name: Deploy to GitHub Pages
-      uses: rahulkashyap-phy/actions-main@v3
+      uses: peaceiris/actions-main@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./  # Root directory with your static HTML file
