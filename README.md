@@ -2,6 +2,7 @@
 
 This is repository of my academic activities hosted using github pages on https://rahulkashyap-phy.github.io/
 
+I will add my group's update here as well.
 
 
 <!--
